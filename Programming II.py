@@ -123,6 +123,8 @@ print("{:05}".format(23))
 # 142.3 >> $142.30
 print("${:.2f}".format(142.3))
 
+
+
 # the following is not allowed
 # my variable   # spaces not allowed
 # my_variable!  # no special characters
